@@ -1,0 +1,36 @@
+[1.596s] Invoking command in '/home/c-ros-futbot/torreta_ws/src/vision': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/c-ros-futbot/torreta_ws/build/vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/c-ros-futbot/torreta_ws/install/vision/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vision build --build-base /home/c-ros-futbot/torreta_ws/build/vision/build install --record /home/c-ros-futbot/torreta_ws/build/vision/install.log --single-version-externally-managed install_data
+[1.976s] running egg_info
+[1.976s] creating ../../build/vision/vision.egg-info
+[2.002s] writing ../../build/vision/vision.egg-info/PKG-INFO
+[2.003s] writing dependency_links to ../../build/vision/vision.egg-info/dependency_links.txt
+[2.003s] writing requirements to ../../build/vision/vision.egg-info/requires.txt
+[2.003s] writing top-level names to ../../build/vision/vision.egg-info/top_level.txt
+[2.003s] writing manifest file '../../build/vision/vision.egg-info/SOURCES.txt'
+[2.057s] reading manifest file '../../build/vision/vision.egg-info/SOURCES.txt'
+[2.058s] adding license file 'LICENSE'
+[2.058s] writing manifest file '../../build/vision/vision.egg-info/SOURCES.txt'
+[2.059s] running build
+[2.059s] running build_py
+[2.059s] creating /home/c-ros-futbot/torreta_ws/build/vision/build
+[2.060s] creating /home/c-ros-futbot/torreta_ws/build/vision/build/lib
+[2.060s] creating /home/c-ros-futbot/torreta_ws/build/vision/build/lib/vision
+[2.060s] copying vision/__init__.py -> /home/c-ros-futbot/torreta_ws/build/vision/build/lib/vision
+[2.060s] copying vision/detector_pelota.py -> /home/c-ros-futbot/torreta_ws/build/vision/build/lib/vision
+[2.060s] running install
+[2.069s] running install_lib
+[2.096s] creating /home/c-ros-futbot/torreta_ws/install/vision/lib/python3.12/site-packages/vision
+[2.096s] copying /home/c-ros-futbot/torreta_ws/build/vision/build/lib/vision/__init__.py -> /home/c-ros-futbot/torreta_ws/install/vision/lib/python3.12/site-packages/vision
+[2.096s] copying /home/c-ros-futbot/torreta_ws/build/vision/build/lib/vision/detector_pelota.py -> /home/c-ros-futbot/torreta_ws/install/vision/lib/python3.12/site-packages/vision
+[2.097s] byte-compiling /home/c-ros-futbot/torreta_ws/install/vision/lib/python3.12/site-packages/vision/__init__.py to __init__.cpython-312.pyc
+[2.098s] byte-compiling /home/c-ros-futbot/torreta_ws/install/vision/lib/python3.12/site-packages/vision/detector_pelota.py to detector_pelota.cpython-312.pyc
+[2.098s] running install_data
+[2.098s] creating /home/c-ros-futbot/torreta_ws/install/vision/share/ament_index
+[2.098s] creating /home/c-ros-futbot/torreta_ws/install/vision/share/ament_index/resource_index
+[2.098s] creating /home/c-ros-futbot/torreta_ws/install/vision/share/ament_index/resource_index/packages
+[2.098s] copying resource/vision -> /home/c-ros-futbot/torreta_ws/install/vision/share/ament_index/resource_index/packages
+[2.098s] copying package.xml -> /home/c-ros-futbot/torreta_ws/install/vision/share/vision
+[2.099s] running install_egg_info
+[2.128s] Copying ../../build/vision/vision.egg-info to /home/c-ros-futbot/torreta_ws/install/vision/lib/python3.12/site-packages/vision-0.0.0-py3.12.egg-info
+[2.129s] running install_scripts
+[2.321s] writing list of installed files to '/home/c-ros-futbot/torreta_ws/build/vision/install.log'
+[2.445s] Invoked command in '/home/c-ros-futbot/torreta_ws/src/vision' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/c-ros-futbot/torreta_ws/build/vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/c-ros-futbot/torreta_ws/install/vision/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vision build --build-base /home/c-ros-futbot/torreta_ws/build/vision/build install --record /home/c-ros-futbot/torreta_ws/build/vision/install.log --single-version-externally-managed install_data

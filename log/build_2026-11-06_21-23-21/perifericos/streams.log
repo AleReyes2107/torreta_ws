@@ -1,0 +1,34 @@
+[2.595s] Invoking command in '/home/c-ros-futbot/torreta_ws/src/perifericos': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/c-ros-futbot/torreta_ws/build/perifericos/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/c-ros-futbot/torreta_ws/install/perifericos/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/perifericos build --build-base /home/c-ros-futbot/torreta_ws/build/perifericos/build install --record /home/c-ros-futbot/torreta_ws/build/perifericos/install.log --install-scripts $base/lib/perifericos --single-version-externally-managed install_data
+[2.928s] /home/c-ros-futbot/.local/lib/python3.12/site-packages/setuptools/_distutils/dist.py:318: UserWarning: Unknown distribution option: 'tests_require'
+[2.928s]   warnings.warn(msg)
+[3.130s] running egg_info
+[3.164s] writing ../../build/perifericos/perifericos.egg-info/PKG-INFO
+[3.168s] writing dependency_links to ../../build/perifericos/perifericos.egg-info/dependency_links.txt
+[3.168s] writing entry points to ../../build/perifericos/perifericos.egg-info/entry_points.txt
+[3.169s] writing requirements to ../../build/perifericos/perifericos.egg-info/requires.txt
+[3.170s] writing top-level names to ../../build/perifericos/perifericos.egg-info/top_level.txt
+[3.241s] reading manifest file '../../build/perifericos/perifericos.egg-info/SOURCES.txt'
+[3.244s] adding license file 'LICENSE'
+[3.248s] writing manifest file '../../build/perifericos/perifericos.egg-info/SOURCES.txt'
+[3.248s] running build
+[3.248s] running build_py
+[3.249s] copying perifericos/__init__.py -> /home/c-ros-futbot/torreta_ws/build/perifericos/build/lib/perifericos
+[3.249s] copying perifericos/arduino_node.py -> /home/c-ros-futbot/torreta_ws/build/perifericos/build/lib/perifericos
+[3.250s] copying perifericos/cameras_node.py -> /home/c-ros-futbot/torreta_ws/build/perifericos/build/lib/perifericos
+[3.251s] running install
+[3.259s] running install_lib
+[3.296s] copying /home/c-ros-futbot/torreta_ws/build/perifericos/build/lib/perifericos/__init__.py -> /home/c-ros-futbot/torreta_ws/install/perifericos/lib/python3.12/site-packages/perifericos
+[3.296s] copying /home/c-ros-futbot/torreta_ws/build/perifericos/build/lib/perifericos/arduino_node.py -> /home/c-ros-futbot/torreta_ws/install/perifericos/lib/python3.12/site-packages/perifericos
+[3.297s] copying /home/c-ros-futbot/torreta_ws/build/perifericos/build/lib/perifericos/cameras_node.py -> /home/c-ros-futbot/torreta_ws/install/perifericos/lib/python3.12/site-packages/perifericos
+[3.298s] running install_data
+[3.300s] copying resource/perifericos -> /home/c-ros-futbot/torreta_ws/install/perifericos/share/ament_index/resource_index/packages
+[3.300s] copying package.xml -> /home/c-ros-futbot/torreta_ws/install/perifericos/share/perifericos
+[3.302s] copying launch/camera_mipi0.launch.py -> /home/c-ros-futbot/torreta_ws/install/perifericos/share/perifericos/launch
+[3.305s] running install_egg_info
+[3.338s] removing '/home/c-ros-futbot/torreta_ws/install/perifericos/lib/python3.12/site-packages/perifericos-0.0.0-py3.12.egg-info' (and everything under it)
+[3.338s] Copying ../../build/perifericos/perifericos.egg-info to /home/c-ros-futbot/torreta_ws/install/perifericos/lib/python3.12/site-packages/perifericos-0.0.0-py3.12.egg-info
+[3.345s] running install_scripts
+[3.415s] Installing arduino_node script to /home/c-ros-futbot/torreta_ws/install/perifericos/lib/perifericos
+[3.416s] Installing cameras_node script to /home/c-ros-futbot/torreta_ws/install/perifericos/lib/perifericos
+[3.417s] writing list of installed files to '/home/c-ros-futbot/torreta_ws/build/perifericos/install.log'
+[3.544s] Invoked command in '/home/c-ros-futbot/torreta_ws/src/perifericos' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/c-ros-futbot/torreta_ws/build/perifericos/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/c-ros-futbot/torreta_ws/install/perifericos/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/perifericos build --build-base /home/c-ros-futbot/torreta_ws/build/perifericos/build install --record /home/c-ros-futbot/torreta_ws/build/perifericos/install.log --install-scripts $base/lib/perifericos --single-version-externally-managed install_data

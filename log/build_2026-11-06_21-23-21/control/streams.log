@@ -1,0 +1,31 @@
+[2.634s] Invoking command in '/home/c-ros-futbot/torreta_ws/src/control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/c-ros-futbot/torreta_ws/build/control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/c-ros-futbot/torreta_ws/install/control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/control build --build-base /home/c-ros-futbot/torreta_ws/build/control/build install --record /home/c-ros-futbot/torreta_ws/build/control/install.log --install-scripts $base/lib/control --single-version-externally-managed install_data
+[3.167s] running egg_info
+[3.200s] writing ../../build/control/control.egg-info/PKG-INFO
+[3.210s] writing dependency_links to ../../build/control/control.egg-info/dependency_links.txt
+[3.210s] writing entry points to ../../build/control/control.egg-info/entry_points.txt
+[3.211s] writing requirements to ../../build/control/control.egg-info/requires.txt
+[3.212s] writing top-level names to ../../build/control/control.egg-info/top_level.txt
+[3.284s] reading manifest file '../../build/control/control.egg-info/SOURCES.txt'
+[3.285s] adding license file 'LICENSE'
+[3.286s] writing manifest file '../../build/control/control.egg-info/SOURCES.txt'
+[3.286s] running build
+[3.287s] running build_py
+[3.290s] copying control/manual.py -> /home/c-ros-futbot/torreta_ws/build/control/build/lib/control
+[3.291s] copying control/__init__.py -> /home/c-ros-futbot/torreta_ws/build/control/build/lib/control
+[3.292s] copying control/seguidor.py -> /home/c-ros-futbot/torreta_ws/build/control/build/lib/control
+[3.292s] running install
+[3.300s] running install_lib
+[3.338s] copying /home/c-ros-futbot/torreta_ws/build/control/build/lib/control/manual.py -> /home/c-ros-futbot/torreta_ws/install/control/lib/python3.12/site-packages/control
+[3.338s] copying /home/c-ros-futbot/torreta_ws/build/control/build/lib/control/__init__.py -> /home/c-ros-futbot/torreta_ws/install/control/lib/python3.12/site-packages/control
+[3.343s] copying /home/c-ros-futbot/torreta_ws/build/control/build/lib/control/seguidor.py -> /home/c-ros-futbot/torreta_ws/install/control/lib/python3.12/site-packages/control
+[3.344s] running install_data
+[3.354s] copying resource/control -> /home/c-ros-futbot/torreta_ws/install/control/share/ament_index/resource_index/packages
+[3.354s] copying package.xml -> /home/c-ros-futbot/torreta_ws/install/control/share/control
+[3.354s] running install_egg_info
+[3.389s] removing '/home/c-ros-futbot/torreta_ws/install/control/lib/python3.12/site-packages/control-0.0.0-py3.12.egg-info' (and everything under it)
+[3.391s] Copying ../../build/control/control.egg-info to /home/c-ros-futbot/torreta_ws/install/control/lib/python3.12/site-packages/control-0.0.0-py3.12.egg-info
+[3.394s] running install_scripts
+[3.466s] Installing manual_node script to /home/c-ros-futbot/torreta_ws/install/control/lib/control
+[3.470s] Installing seguiidor_node script to /home/c-ros-futbot/torreta_ws/install/control/lib/control
+[3.470s] writing list of installed files to '/home/c-ros-futbot/torreta_ws/build/control/install.log'
+[3.624s] Invoked command in '/home/c-ros-futbot/torreta_ws/src/control' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/c-ros-futbot/torreta_ws/build/control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/c-ros-futbot/torreta_ws/install/control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/control build --build-base /home/c-ros-futbot/torreta_ws/build/control/build install --record /home/c-ros-futbot/torreta_ws/build/control/install.log --install-scripts $base/lib/control --single-version-externally-managed install_data

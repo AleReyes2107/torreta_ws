@@ -1,0 +1,3 @@
+[console_scripts]
+manual_node = control.manual:main
+seguiidor_node = control.seguidor:main

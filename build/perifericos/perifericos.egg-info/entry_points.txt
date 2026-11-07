@@ -1,0 +1,3 @@
+[console_scripts]
+arduino_node = perifericos.arduino_node:main
+cameras_node = perifericos.cameras_node:main
